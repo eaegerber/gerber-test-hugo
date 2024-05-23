@@ -12,5 +12,5 @@ showAuthorsBadges : false
 
 # Stats 
 
-Let's talk about Principal Component Analysis!
+Let's talk about Principal Component Analysis! (or, at least regression, gradient descent, and neural networks...)
 
